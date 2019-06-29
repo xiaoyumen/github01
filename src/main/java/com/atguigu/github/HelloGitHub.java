@@ -10,5 +10,6 @@ public class HelloGitHub
     {
         System.out.println("我是github测试工程，我在github上");
         System.out.println("idea commit 2019.6.29");
+        System.out.println("idea commit 02");
     }
 }
