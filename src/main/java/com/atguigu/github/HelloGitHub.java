@@ -11,5 +11,6 @@ public class HelloGitHub
         System.out.println("我是github测试工程，我在github上");
         System.out.println("mysql003");
         System.out.println("java001");
+        System.out.println("aaaaaaa");
     }
 }
