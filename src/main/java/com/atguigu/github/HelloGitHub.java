@@ -12,5 +12,6 @@ public class HelloGitHub
         System.out.println("AAAAAA");
         System.out.println("333333");
         System.out.println("BBBBBB");
+        System.out.println("xxxxxx");
     }
 }
